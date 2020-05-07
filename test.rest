@@ -1,0 +1,8 @@
+POST http://localhost:5000/generatePDF
+Content-Type: application/json
+
+{
+    "name": "Rahul Ranjan",
+    "age":25,
+    "email" :"work.rahul22@gmail.com"
+}

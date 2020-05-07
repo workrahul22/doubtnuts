@@ -1,0 +1,16 @@
+{
+  "name": "doubtnuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "author": "Rahul Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "pdfkit": "^0.11.0"
+  }
+}
